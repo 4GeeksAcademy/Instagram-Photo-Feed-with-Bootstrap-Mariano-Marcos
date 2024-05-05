@@ -1,0 +1,26 @@
+/* p {
+    margin: 0%;
+    padding: 0;
+}
+.header {
+    background-color: lightgray;
+    justify-content: space-between;
+    display: flex;
+    padding: 10px 10px 10px 10px;
+}
+
+.left-header {
+    justify-content: center;
+    align-items: center; 
+    display: flex; 
+    padding: 0;
+    margin: 0;
+}
+
+.left-header i {
+    padding-right: 7px;
+}
+
+.logout-item {
+    color: red; /* Set text color to red */
+} */
